@@ -1,4 +1,4 @@
-# Temperature and Humidity Monitoring with BME680 Sensor
+# Temperature and Humidity Monitoring with BME680
 
 ## The Idea
 
